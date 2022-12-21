@@ -1,2 +1,1 @@
 # polybarConfig
-# polybarConfig
